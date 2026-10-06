@@ -1,0 +1,6 @@
+{
+  "name": "Zero Standing Privilege (ZSP) Framework for Employee Resource Access",
+  "description": "An AI/ML-driven Zero Standing Privilege access control system with Random Forest and Isolation Forest models for automated risk scoring, anomaly detection, and privilege management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
